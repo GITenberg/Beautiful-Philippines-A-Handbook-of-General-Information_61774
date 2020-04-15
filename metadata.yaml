@@ -1,0 +1,25 @@
+_repo: Beautiful-Philippines-A-Handbook-of-General-Information_61774
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Philippine Islands. Commission of Independence
+    alias: Independence, Philippine Commission of
+    gutenberg_agent_id: '51606'
+    url: http://www.gutenberg.org/2009/agents/51606
+description: ''
+gutenberg_issued: '2020-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61774'
+  lccn: '24027059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- Economic conditions'
+- !lcc 'DS'
+- !lcsh 'Philippines -- Description and travel'
+- GITenberg
+title: 'Beautiful Philippines: A Handbook of General Information'
+url: http://www.gutenberg.org/ebooks/61774
