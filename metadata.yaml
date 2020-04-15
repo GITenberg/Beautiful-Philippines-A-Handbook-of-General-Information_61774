@@ -1,5 +1,8 @@
 _repo: Beautiful-Philippines-A-Handbook-of-General-Information_61774
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61774-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Philippine Islands. Commission of Independence
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '51606'
     url: http://www.gutenberg.org/2009/agents/51606
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61774#Beautiful-Philippines-A-Handbook-of-General-Information
 gutenberg_issued: '2020-04-07'
 gutenberg_type: Text
 identifiers:
